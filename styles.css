@@ -134,6 +134,10 @@ main {
 		display: flex;
 		flex-direction: column;	
 	}
+
+	body {
+		padding: 1em;
+	}
 }
 
 
